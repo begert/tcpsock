@@ -3,7 +3,7 @@
 ## install build environment
 
     sudo apt install linux-headers-$(uname -r)
-    sudo apt install build-essentials
+    sudo apt install build-essential
 
 ## compile them with
 
